@@ -15,6 +15,7 @@ unmapAllExcept([
   // 帮助
   "?",
   ";ql",
+  ";s",
 
   // 鼠标点击
   "gi",
